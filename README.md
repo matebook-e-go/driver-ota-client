@@ -24,7 +24,7 @@ PARAMETERS
 
 ## Bootstrapping
 
-For bootstrapping installation media, use [drivers for ThinkPad X13s](https://pcsupport.lenovo.com/us/en/products/laptops-and-netbooks/thinkpad-x-series-laptops/thinkpad-x13s-type-21bx-21by/downloads/driver-list/component?name=Power%20Management&id=E1B533C3-16CA-4FBE-8BD8-FB5D7A57F431)
+For bootstrapping installation media, use [drivers for ThinkPad X13s](https://pcsupport.lenovo.com/us/en/products/laptops-and-netbooks/thinkpad-x-series-laptops/thinkpad-x13s-type-21bx-21by/downloads/ds556993-sccm-package-for-windows-pe-11-thinkpad-x13s?category=Enterprise%20Management)
 
 ## After installation
 
